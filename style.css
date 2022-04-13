@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: aqua;
+}
+dl {
+    display: flex;
+    font-size: large;
+    color: black;
+}
+dd:hover {
+    font-size: larger;
+    color: rgb(123, 29, 246);
+    text-decoration: underline;
+}
+h1,h2 {
+    text-decoration: underline;
+}
